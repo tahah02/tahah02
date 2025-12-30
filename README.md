@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**tahah02/tahah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 ### About Me :<br>* 🔭 I’m currently engineering fintech solutions as a **Software Engineer at @Codebase Technologies**.<br>* 👯 I’m interested in collaborating on **Open-source Computer Vision initiatives** and **scalable Predictive Modeling engines**.<br>* 🤝 I’m seeking mentorship and opportunities to accelerate my growth in **Machine Learning and AI**.<br>* 🌱 I’m currently deepening my expertise in **Advanced Machine Learning algorithms**.<br>* 💬 Ask me about **Python, Machine Learning workflows, Streamlit prototyping, and Graphic Design**.<br>* ⚡ Fun fact: **I channel creativity through poetry and competitive gaming.**
 
 
@@ -32,11 +25,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=tahah02&icon=3&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
