@@ -1,5 +1,5 @@
 # 💫 About Me:
-### About Me :<br>* 🔭 I’m currently engineering fintech solutions as a **Software Engineer at @Codebase Technologies**.<br>* 👯 I’m interested in collaborating on **Open-source Computer Vision initiatives** and **scalable Predictive Modeling engines**.<br>* 🤝 I’m seeking mentorship and opportunities to accelerate my growth in **Machine Learning and AI**.<br>* 🌱 I’m currently deepening my expertise in **Advanced Machine Learning algorithms**.<br>* 💬 Ask me about **Python, Machine Learning workflows, Streamlit prototyping, and Graphic Design**.<br>* ⚡ Fun fact: **I channel creativity through poetry and competitive gaming.**
+### About Me :<br>* 🔭 I’m currently engineering fintech solutions as a **Software Engineer at @Codebase Technologies**.<br>* 👯 I’m interested in collaborating on **Open-source Computer Vision initiatives** and **scalable Predictive Modeling engines**.<br>* 🤝 I’m seeking mentorship and opportunities to accelerate my growth in **Machine Learning and AI**.<br>* 🌱 I’m currently deepening my expertise in **Advanced Machine Learning algorithms**.<br>* 💬 Ask me about **Python, Machine Learning workflows, Streamlit prototyping, and Graphic Design**.<br>* ⚡ Fun fact: **I channel creativity while coding through poetry and competitive gaming.**
 
 
 ## 🌐 Socials:
